@@ -17,7 +17,7 @@ I haven't seen anyone getting banned for [midi player](https://github.com/3096/g
 
 Higher quality [video](https://www.youtube.com/watch?v=RETlKVrkpU0).
 
-[video](https://user-images.githubusercontent.com/73779998/188373303-f5698cc1-10c1-4e6e-8762-203b3da269c2.webm)
+[aranara.webm](https://github.com/nitolar/aranara-auto-song-player/assets/73779998/55fa6bd8-b210-4fd6-b6a9-3f630a931387)
 
 ## How to use
 
